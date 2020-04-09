@@ -5,6 +5,7 @@
 #' @import svDialogs
 #' @import jsonlite
 #' @import httr
+#' @import rlang
 #' 
 #' 
 #' 
